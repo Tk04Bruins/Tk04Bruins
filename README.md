@@ -1,6 +1,6 @@
 # Tommy Kalogiannis 
 ## I Play hockey
-### I play for (https://www.eliteprospects.com/team/10786/st.-andrew-s-college-u18-aaa/2023-2024?tab=stats)
+### I play for [SACU18aaa](https://www.eliteprospects.com/team/10786/st.-andrew-s-college-u18-aaa/2023-2024?tab=stats)
 ### A picture of me playing hockey ![](https://files.eliteprospects.com/layout/players/1dbec168b9a29c9d22049b978424bf92.jpeg)
 
 ## I am currently learning Computer Engineering
