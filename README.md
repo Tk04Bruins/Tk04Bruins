@@ -1,15 +1,21 @@
 # Tommy Kalogiannis 
 ## I Play hockey
 ### I play for (https://www.eliteprospects.com/team/10786/st.-andrew-s-college-u18-aaa/2023-2024?tab=stats)
-### A Picture of me playing hockey (https://files.eliteprospects.com/layout/players/1dbec168b9a29c9d22049b978424bf92.jpeg)
+### A picture of me playing hockey ![](https://files.eliteprospects.com/layout/players/1dbec168b9a29c9d22049b978424bf92.jpeg)
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## I am currently learning Computer Engineering
+In Computer Engineering we are currently setting up this profile 
 
-<!---
-Tk04Bruins/Tk04Bruins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I am looking to collaborate...
+With my hockey teamates on scoring goals and making good plays 
+
+## You can reach me at...
+###  - tommy.kalogiannis@gmail.com
+###  - tommy.kalogiannis@sac.on.ca
+###  - 647-454-3964
+
+## Pronouns
+He/Him
+
+## Fun fact
+I'm Heartbroken 😥
